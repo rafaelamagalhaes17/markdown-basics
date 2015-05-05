@@ -1,11 +1,12 @@
 
 #markdown-basics
+
 #Noções básicas de remarcação
 A marcação permite-lhe escrever usando um formato de texto fácil de ler e fácil de escrever, que então se converte em HTML válida para visualização no GitHub.
 
 #Escrita básica
 
-Parágrafos
+*Parágrafos_
 Parágrafos na marcação são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
 
 #Cabeçalhos
