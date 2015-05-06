@@ -8,9 +8,12 @@
 
 ###Parágrafos
 Parágrafos na marcação são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
-Ex: rafaela magalhães patricio de souza ....................................... ggggggggggggggggggggggggggggggggggggggggkkkkkk
 
-eu sou muito legal kkkkkkkkkk
+```
+n July 2, an alien mothership entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
+
+On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated in an assault on a destroyer near the city of Los Angeles.
+```
 
 ###Cabeçalhos
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # que você usa irá determinar o tamanho do cabeçalho.
