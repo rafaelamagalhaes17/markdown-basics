@@ -1,8 +1,8 @@
 
 #Markdown-basics
 
-#Noções básicas de remarcação
-[marcarção](http://nocoesbasicas))A marcação permite-lhe escrever usando um formato de texto fácil de ler e fácil de escrever, que então se converte em HTML válida para visualização no GitHub.
+#Noções básicas de Markdown
+[Markdown](http://daringfireball.net/projects/markdown/) permite que você escreva usando um plano de formato de texto fácil para ler e escrever, que em seguida converte em HTML válido para a visualização no Github.
 
 #Escrita básica
 
