@@ -12,8 +12,8 @@ Parágrafos na marcação são apenas uma ou mais linhas de texto consecutivos s
 ###Cabeçalhos
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # que você usa irá determinar o tamanho do cabeçalho.
 Ex: 
-###Educação
-###Saúde
+######Educação
+######Saúde
 
 ###Bloco de notas
 Você pode indicar o bloco de notas com a >.
@@ -62,11 +62,11 @@ ex:
 
 ###formatos nas entrelinhas
 Use uma única aspa (`) para formatar o texto em um formato especial. Tudo dentro das aspas aparecem como está, sem nenhuma outra formatação especial.
-Ex: 'rafaela'
+Ex: `rafaela`
 
 ###Várias linhas
 Você pode usar acentos graves triplos (`` `) para formatar o texto como seu próprio bloqueio distinto.
-ex: ''' o Professor Marcelo é chato '''
+ex: ```O professor Marcelo é legal```
 
 #Links
 Você pode criar uma ligação nas entrelinhas envolvendo os links no  texto entre colchetes ([]), e, em seguida, envolver a ligação entre parênteses (()).
