@@ -61,12 +61,12 @@ ex:
 #A formatação do código
 
 ###formatos nas entrelinhas
-Use uma única aspa (`) para formatar o texto em um formato especial. Tudo dentro das aspas aparecem como está, sem nenhuma outra formatação especial.
+Use uma única aspa para formatar o texto em um formato especial. Tudo dentro das aspas aparecem como está, sem nenhuma outra formatação especial.
 Ex: 
 `rafaela`
 
 ###Várias linhas
-Você pode usar acentos graves triplos (`` `) para formatar o texto como seu próprio bloqueio distinto.
+Você pode usar acentos graves triplos  para formatar o texto como seu próprio bloqueio distinto.
 ex: 
 ```O professor Marcelo é legal```
 
