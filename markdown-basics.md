@@ -8,6 +8,9 @@
 
 ###Parágrafos
 Parágrafos na marcação são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
+Ex: rafaela magalhães patricio de souza ....................................... ggggggggggggggggggggggggggggggggggggggggkkkkkk
+
+eu sou muito legal kkkkkkkkkk
 
 ###Cabeçalhos
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # que você usa irá determinar o tamanho do cabeçalho.
