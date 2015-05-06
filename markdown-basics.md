@@ -88,8 +88,10 @@ Ex:
 
 ###Várias linhas
   Você pode usar acentos graves triplos  para formatar o texto como seu próprio bloqueio distinto.
+```
 Ex: 
-```O professor Marcelo é legal```
+O professor Marcelo é legal
+```
 
 #Links
   Você pode criar uma ligação nas entrelinhas envolvendo os links no  texto entre colchetes ([]), e, em seguida, envolver a ligação entre parênteses (()).
