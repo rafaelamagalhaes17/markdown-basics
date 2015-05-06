@@ -18,6 +18,7 @@ Ex:
 #Bloco de notas
 Você pode indicar o bloco de notas com a >.
 >exemplo de citacao
+
 #Estilo de texto 
 Você pode fazer o texto em negrito ou itálico.
 Ambos negrito e itálico podem usar um * ou um _ em torno do texto para o estilo. Isso permite que você combine os dois em negrito e itálico, se necessário.
