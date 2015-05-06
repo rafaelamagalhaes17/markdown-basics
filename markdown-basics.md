@@ -17,13 +17,22 @@ On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, partici
 
 ###Cabeçalhos
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # que você usa irá determinar o tamanho do cabeçalho.
-Ex: 
-######Educação
-######Saúde
+```
+# The largest heading (an <h1> tag)
+## The second largest heading (an <h2> tag)
+…
+###### The 6th largest heading (an <h6> tag)
+```
 
 ###Bloco de notas
 Você pode indicar o bloco de notas com a >.
->exemplo de citacao
+```
+In the words of Abraham Lincoln:
+
+In the words of Abraham Lincoln:
+
+> Pardon my french
+```
 
 ###Estilo de texto 
 Você pode fazer o texto em negrito ou itálico.
