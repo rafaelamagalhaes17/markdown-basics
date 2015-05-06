@@ -9,7 +9,7 @@ A marcação permite-lhe escrever usando um formato de texto fácil de ler e fá
 *Parágrafos*
 Parágrafos na marcação são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
 
-*Cabeçalhos*
+*#Cabeçalhos
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # que você usa irá determinar o tamanho do cabeçalho.
 
 *Bloco de notas*
